@@ -1,0 +1,1375 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ordovre of excommvnicatiovn and of pvblict repentance vsed in the Church of Scotland, and commanded to be prented by the generall Assemblie of the same, in the moneth of Iunij. 1569.</title>
+            <author>Knox, John, ca. 1514-1572.</author>
+         </titleStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72495</idno><idno type="EEBO-CITATION">99898657</idno>
+  <idno type="VID">173246</idno>
+  <idno type="EEBO-PROQUEST">2240894473</idno>
+  <idno type="STC">STC 15074.2</idno>
+  <idno type="STC">ESTC S124906</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99898657e"/>
+            <note>(EEBO-TCP ; phase 2, no. A72495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2025:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ordovre of excommvnicatiovn and of pvblict repentance vsed in the Church of Scotland, and commanded to be prented by the generall Assemblie of the same, in the moneth of Iunij. 1569.</title>
+                  <author>Knox, John, ca. 1514-1572.</author>
+               </titleStmt>
+               <extent>[72] p.   </extent>
+               <publicationStmt>
+                  <publisher>be Robert Lekpreuik,</publisher>
+                  <pubPlace>Prentid at Edinburgh :</pubPlace>
+                  <date>anno. 1569.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Knox. -- STC.</note>
+                  <note>Signatures: A-D E⁴.</note>
+                  <note>Caption title on E1v: The electioun of eldars, and deaconis, in the Church of Edinburgh.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  Customs and practices --  Early works to 1800.</term>
+               <term type="topical_term">Excommunication --  Church of Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="sco">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173246:1"/>
+            <p>THE ORDOVRE OF <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>XCOMMVNICATIOVN AND OF PVBLICT REPENTANCE, vsed in the Church of Scotland, and commanded to be prented by the generall Assemblie of the same, in the Mo<g ref="char:EOLhyphen"/>neth of Iunij. 1569.</p>
+            <p>PRENTID AT EDINBVRGH BE ROBERT LEKPREVIK. ANNO. 1569,</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173246:2"/>
+            <pb facs="tcp:173246:2"/>
+            <pb facs="tcp:173246:3"/>
+            <p>Albeit that in the booke of discipline the ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alswe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of publict repentance as of excom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nicatioun ar sufficientlie expressed: YIT<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cause the forme and ordour ar not so set fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that euerie Church and Minister may haue <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rance that they agre with vtheris in proceidi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it is thoght expedient to draw y<seg rend="sup">e</seg> ordour, whi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vniuersallie within this Realme shal be ob<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ued.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:173246:3"/>
+            <head>And first we man vnderstand what crymes be vorthy of excōmunicatioun, and what of publick repentence,</head>
+            <p>IN the first, it is to be noted that all crymes that be the Law of God deserue death, deserue also excōmunicatioun frome the societie of Chri<g ref="char:EOLunhyphen"/>stis Church, whither the offendar be papist or protestant: for it is no reassone that vnder pre<g ref="char:EOLhyphen"/>tense of diuersitie of religioun, open Impietie shuld be suffered in the visible body of Christe Iesus. And thairfor wilfull murtherars, Adulte<g ref="char:EOLhyphen"/>raris (lauchsullie conuict) Sorserars, Wiches, coniurars, Charmars, and geuars of drynks to destroy children, &amp; oppin blasphemars (as if ony renunce God, deny the trueth, &amp; authoritîe of his holie word, rayll aganis his blessed Sacramē<g ref="char:EOLhyphen"/>tis) such we say aucht to be excōmunicat frome the societie of Christs Church. That there Im<g ref="char:EOLhyphen"/>pictie may be haldin in greatter horrour, &amp; that thay may be the moir deiplie wounded percea<g ref="char:EOLhyphen"/>ning thame selsis abhorred of the godlie. Aganis such oppin malefactoris the processe may be sū mar, for the cryme being knawin, aduertisment aucht to be geuin to the Superintendent of the diosey, ether be the Minister, or be such as can best geue informatioun of that fact. Except in
+<pb facs="tcp:173246:4"/>reformed Townis and vther places where th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ministerie is plāted with Minister &amp; Elderis ac<g ref="char:EOLhyphen"/>cording to the act of the general assemblie mad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the 26. of December 1568. And if there b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Superintendent where the cryme is cōmitte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then aucht the informatioun to pas frome suc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as ar offended to the nixt Superintendent wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with expeditioun aucht to direct his letters <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> summunds to the parish Church, where the off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dar hath his residence if the Ministerie be the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> planted, &amp; if it be not, or if the offendar haue n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>certane dwelling place, then aucht the sūmund be direct to the cheif toun and best reform<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church in that diocey, where the cryme w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> committed, appointing to the offendar certa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> day, tyme, and place, where and when he sh<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cōpeir befoir the Superintendent &amp; his assisso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to heir that cryme tryed as tuiching the true<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of it, and to ensuer for him self, why the senten<g ref="char:EOLhyphen"/>ce of excommunicatioun should not be pronun<g ref="char:EOLhyphen"/>ced publictlie aganis him. If the offendar lauful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lie warnit compeir not inquilitioun being tak<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the cryme, charge may be geuin be the Sup<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> intendent to the <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>isters so many as shalb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoucht necess<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> publicatioun of that sen<g ref="char:EOLhyphen"/>tence to pronu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> same the nixt sonday, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forme whereof shall ester be declared. Bot an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:173246:4"/>if the offendar compeir and alledge for him self, ony reassonable defēce, to wit that he wil not be fugitiue frome the law, bot wil abyd the censure thereof for that offence, then may the sentence of excōmunicatiō be suspendit till that the Ma<g ref="char:EOLhyphen"/>gistrat be required to try that cause wherein if the Magistrats be negligent, Then aucht the Church frome secreit requisitioun proceid till publique admonitioun, that the Magistratis may be vigilant in that caus of bloode, which cryith vēgeance vpone the hole land where it is sched without punishmēt. If no remedio be them can be found, then iustlie may the Church pronoūce the offendar excommunicat, as one suspect, besi<g ref="char:EOLhyphen"/>dis his cryme, to haue corrupted the Iudges re<g ref="char:EOLhyphen"/>uengeris of the blood: and so aucht the Church to proceid to excommunicatioun, whither the offendar be fugitiue frome the law, or if he pro<g ref="char:EOLhyphen"/>cure pardoun, or illude the seueritie of Iustice be meanes whatsoeuer, besy dis the tryell of his in<g ref="char:EOLhyphen"/>nocencie.</p>
+            <p>If the offendar abyde ane assise and by the same be absolued, then may not the Church pro<g ref="char:EOLunhyphen"/>nūce excōmunicatioū, bor iustlie may exhort the man be whose hand the blood was shed to entir in consideratioun with him self how precious is the lyfe of man before God, and how seueirlie
+<pb facs="tcp:173246:5"/>God cōmandeth bloode (howsoeuir it be sched, except it be by the sword of the Magistrat) to be punished. And so may inioyne vnto him suche satisfactionis to be maid publictlie to the church as may bear testificatioun of his obedience and vnfeaned repentance. If the offendar be cōuict and executioun follow according to the cryme, then vpone the humble suyte of him that is to suffer may the eldars &amp; minister of the Church not onlie geue vnto him consolatioun, bot also pronunce the sentence of absolutioun, and his sin to be remitted according to his repentance and faithe. And thus moche for excōmuuuicatioū of publique offendaris.</p>
+            <p>AND yit forther woman cōsiddir that if the offendar be fugitiue frome the law, so that puni<g ref="char:EOLhyphen"/>shment can not be executed aganis him, in that caise the Church aucht to delay no tyme, bot vpone the notorietie of his cryme, &amp; that he is fled frome the presence of the Iudge, it aucht to prouunce him exōmunicated publictlie, and so contineuallie to reput him, vnto such tyme that the Magistrat be satisfied. And so whither the offendar be conuict in iudgement, or be fugitiue frome the law, The Church aucht to procead to the sentence of excōmunicatioun. The forme wherof followeth.</p>
+            <div type="form_of_excommunication">
+               <pb facs="tcp:173246:5"/>
+               <head>THE FORME.</head>
+               <div type="part">
+                  <head>The Minister in publict audience of the pepill sall say.</head>
+                  <p>IT is cleirlie knowin vnto vs that. N. sum<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tymes baptised in the name of the father &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the sone and of the holy ghost, &amp; so reputed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd compted for one Christiane, hath fearfullie <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>llin frome the societie of Christs body by cō<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itting of cruell &amp; wilfull murther (or by cō<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itting filthy adulterie &amp;c.) which cryme be the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of God deserueth death. And because the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iuile sword is in the hand of Godds magistrat who notwithstanding oft winkis at such crymes: We hauing place in the ministerie with greas &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olour of our hartts ar compelled to draw the sword granted be God to his Church. That is to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xcōmunicat frome the societie of Christ Iesus, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome his bodie the Church, frome participati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>un of Sacramentes and Prayeris with the same. The said N. AND THER FOR IN THE NAME AND AVTHORI<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IE OF THE ETERNAL GOD <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ND OF HIS SONE IESVS CHRIST. We pronnuce the said. N. excōmunicat and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cursed in that his wicked facte, And charges <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l that fauore the Lord Iesus so to repute and
+<pb facs="tcp:173246:6"/>holde him (or hir) vnto suche tyme as th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ether the magistrat haue punished the offend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as Goddes law commandis, Or that the sam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> offendar be reconsiled to the Church agane b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> publique repentance: and in the meanty me <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> earnestlie desire all faithful to cal to God to m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ue the hearts of the vpper powers so to puni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> such horrible crymes that malefactors may fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to offend ewin for feare of punishment, and al<g ref="char:EOLhyphen"/>so to tuiche the heart of the offēdar that he m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> deiplie considder how fearfull it is to fall in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> handes of the eternall God. That by vnfean<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> repentance he may apprehend mercie in Ies<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Christ and so awoid eternall condemnatioun.</p>
+                  <p>THE sentence of excommunicatioun o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pronounced the Church may not suddan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> admit the murtherar, or conuict adulterar <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> repentance and societie of the faithfull, alb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that pardone be purchassed of the magistrat: b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> first aucht inquisition be taken if the murther haue satisfied the partie offended, that is the k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and freindis of the man slane. Which if he has not done, nether is vnderstand willing so to d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> y<seg rend="sup">e</seg> church in no wayis may hear him. Bot &amp; if <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> be willing to satisfie, &amp; the freinds exceid mea<g ref="char:EOLhyphen"/>sure &amp; the possibilitie of him that hath cōm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:173246:6"/>the cryme. Then aucht the Church to put moderatioun to the vnreasonable, in caise the ciuile magistrat hath not so done befoir: And so proceid with him that offereth repentance, that the wilsulnes of the indiscreit be not hinderan<g ref="char:EOLhyphen"/>ce to the reconciliatioun of him that eirnestlie craueth the benefite &amp; societie of the Church.</p>
+                  <p>AND yit may not the Church receaue ony excommunicat at his first requeist: bot in such greuous crymes as befoir ar expressed (of vthe<g ref="char:EOLhyphen"/>ris shall be efter spokin) fourtie dayis at the least efter his first offer may be appointed to try whi<g ref="char:EOLhyphen"/>ther the signes of repentance appeir in the offē<g ref="char:EOLhyphen"/>dar or not. And yit in the meantyme y<seg rend="sup">e</seg> Church may conforte him be holsome admonitiouns assuring him of Gods mercy if he be werilie pe nitēt: he may also be admitted to the hearing of the worde: Bot in nowyse to participatioun of prayeris nether befoir nor efter sermon. The first fourtie dayis expyred vpone his new suit the Superintendent or sessioun may Inioin such pa<g ref="char:EOLhyphen"/>nes as may try whether he be penitent or not, the least ar, the murtherar, man stād thre seuerall Sōdayis in an publict place befoir y<seg rend="sup">e</seg> Churchdure bair futed and bair headed cled in base &amp; abiect apparaill, hauing the same wappē w<seg rend="sup">c</seg> he vsed in the murther, or the lyke bloody in his hand, &amp;
+<pb facs="tcp:173246:7"/>in conceaued words shall say to such as shall en<g ref="char:EOLhyphen"/>ter into the Chruch.</p>
+               </div>
+               <div type="part">
+                  <head>¶ THE CONFESSIOVN OF THE PENITENT.</head>
+                  <p>SO far hath sathan gottin victorie ouir me that cruellie I haue sched innocent blood, for the which I haue deserued death corporal and eter<g ref="char:EOLhyphen"/>nall. And so I grant my selfe vnworthie of the cōmoun lyght or yit of the company of men. And yit because in God there is mercy that pas<g ref="char:EOLhyphen"/>sith all measure, and because the Magistrat hath not takin frome me this wrechit lyfe, I moste carnestlie desyre to be reconsiled agane with the Church of Christ Iesus, from the societie whereof my iniquitie hath caused me to be ex<g ref="char:EOLhyphen"/>cōmunicated. And therefore in the bowellis of Christ Iesus I craue of yow to pray with me vn<g ref="char:EOLhyphen"/>to God, that my greuous cryme may be of him remitted, &amp; also that ye wilbe suppliantes with me to the Church, that I abyd not thus excom<g ref="char:EOLhyphen"/>municat vnto the end.</p>
+                  <p>At the last of the thre sondayis certane of the Eldaris shal reccaue him into the Church &amp; present him before the preaching place, and shal declair vnto the Minister that all that was inioy<g ref="char:EOLhyphen"/>ned to that offendar was obedientlie fulfilled by him. Then shall the minister recite vnto him als<g ref="char:EOLhyphen"/>weill
+<pb facs="tcp:173246:7"/>the greuousnes of his sin, as the mercyes <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> God if he be penitent. And thereefter shall <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>quire of the Church if that they desire any <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ther satisfactioun, and if no answer be geuin, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en shall the minister pronounce his sin to be <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mitted according to his repentance, and shall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hort the Church to embrace him as one bro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er efter that prayer and thankis geuing be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uin vnto God, as efter shall be descryued.</p>
+                  <p>And thus far to be obserued for the ordour in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceauing of thame that hath cōmitted capitall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ymes, be it murther, adulterie, incest wich craft <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> vtheris befoir expressed.</p>
+                  <p>Resteth yit one vther kynd of offendaris that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eserue excommunicatioun, Albeit not so sum<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arlie, to wit, such as haue bene parttakars with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in doctrine and Sacraments. And haue retur<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed back agane to the papistrie, or haue geuin <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere presence to ony parte of there abhomina<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>un, or yit that of ony long cōtineuance with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw thame seifis frome the societie of Christis <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dy, and frome the participatioun of the Sa<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amētis when thay ar publictlie ministrat. Such <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> doubt declair thame selfis worthy of excom<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unicatioun. Bot first they man be called ether <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>fore the Superintendēt with sum ioyned with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m, or ellis befoir the Eldaris and sessioun of ȳ
+<pb facs="tcp:173246:8"/>best and nixt reformed Church, where the of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dars hath their residence, who man accuse the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> defectioun: exhorte them to repentance, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> declair theme the danger wherein they stand.</p>
+                  <p>Whom if the offendar herith, the sessioun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Superintendent may appoynt him ane day <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> satisfie the Church publictlie, whome by his <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>fectioun he had offended. Bot if he cōtinew s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>burne, then may the sessioun or Superintende<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> command the Minister or Ministers to decla<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> nixt sounday the defectioū of such ane perso<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and his obstinat contempt, &amp; this aduertisme<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> geuin two sounday is, the thrid may the senten<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of excomunicatoun be pronounced.</p>
+               </div>
+               <div type="part">
+                  <head>Offences that deserue publict Repentance, And ordor to proceid thereintill</head>
+                  <p>SVch offences as fal not vnder the ciuile swo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and yit ar scladerous and offensiue in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Churche deserue publict repentance, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> these sum ar more haynous thē vtheris, forni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tion, drunkenes vsed, swering, curssed speaking chyding, feghting, brauling, and commoun c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tēpt of the ordour of the Church, brekin of th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Sabboth, and suchlike, aucht to be in no perso<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> suffered. Bot the sclander being knawin, th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> offendar should be called befoir the Ministeri<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> his cryme prouin, accused, rebuked, and he cō<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>manded
+<pb facs="tcp:173246:8"/>publictlie to satisfie the Church: which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the offendar resu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s they may proceid to excō<g ref="char:EOLhyphen"/>municatioū, as efter shall be declared. If the offē<g ref="char:EOLhyphen"/>dar compeir not, summunds aucht to pas to the thrid tyme. And then in caise he compeir not, the Church may decerue the sentence to be pronunced.</p>
+                  <p>Vtheris be les haynous &amp; yit deserue admoniti<g ref="char:EOLhyphen"/>on. As wanton &amp; vain wordes, vncomlie gestu<g ref="char:EOLhyphen"/>res, negligence in hearing the preacheingis, or ab<g ref="char:EOLunhyphen"/>stening from thee Lordis table when it is publi<g ref="char:EOLhyphen"/>ctlie ministrat, suspitioun of auarice or of pryde superfluitie or ryatousnes in cheir or rayment, these we say &amp; such vtheris y<seg rend="sup">t</seg> of the world ar not regarded deserue admonitioun, amonges the mē<g ref="char:EOLunhyphen"/>bres of Christis body. First, secreatlie by on or two, of those that first espy the offence. Which if the persone suspected hear, and geue decla<g ref="char:EOLhyphen"/>ratioun of amendment, then there nedeth no farther processe. Bot if he contempne &amp; dispise the admonitioun, then shuld the formar admo<g ref="char:EOLhyphen"/>nisars tak to them selfis two or thre faithfull &amp; honest witnes, in whose presence the suspected offendar wald be abmonished, and the causis of there suspitioun declared. To whom if then he g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue significatioun of repentance and promesse of amendment, they may cutt of all f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rther ac<g ref="char:EOLhyphen"/>cusatioun.
+<pb facs="tcp:173246:9"/>Bot &amp; if he obstinatlie contēpne b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the said admonitiouns, then aucht the first a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> secund brethren signifie the mater to the mi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ster and eldaris in there sessioun, who aucht<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> call the offendar, and befoir the complenars <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cuse him alsweill of the cryme, as of y<seg rend="sup">e</seg> cōtem<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of the admonitioun: if then he acknawledge <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> offence &amp; be willing to satisfie the brethren b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>foir offended, &amp; the sessioun then present the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> nedith no farther publicatioun of that offen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Bot if he declair him self inobedient to the se<g ref="char:EOLhyphen"/>sioun. Then without delay the nixt Sond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> aucht the cryme, &amp; the ordour of admonitioun passed befoir be publictlie declared to the Ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>rch. And the persone (without specificatioun <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> his name) be admonished to satisfie in publi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> that which he refused to do in secreit, and th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> for the first. If he offerris him self to the Church befoir the nixt Sonday. The discretioun of the Ministerie may tak such ordour as may satisfie alsweill the priuate personis that first war offen<g ref="char:EOLhyphen"/>ded as the Church declaring the repentance, &amp; submission of that brother, that befoir appeared stubburne, and incorrigible. Bot and if he aby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the secound admonitioun publict, when that his name shalbe expressed, and his offenses and stubburnes declared, then can no satisfactioun
+<pb facs="tcp:173246:9"/>be resaued, bot in publict: yea, it may not be receaued befoir that he haue humblie required the same of the Ministerie and sessioun of the Church in there appointed assemblie. If he con<g ref="char:EOLhyphen"/>tinew stubburne, then the thrid Sonday aucht he be charged publictlie to satisfie the Church for his offence and contempt, vnder the pane of excōmunicatioun. The ordour whereof shall ef<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er be declared.</p>
+                  <p>AND thus ane smal offence or sclander may iustlie deserue excommunicatioun, be ressone of the comtempt &amp; disobedience of the offendar. If the offendar schaw him self, penitent betuene the first admonitioun and the secund, &amp; satisfie the Ministerie of the Church. and the brethren that befoir war offended in there assemblie, then it may suffice that the Minister at cōmandement of the sessioun declair the nixt Sonday (with<g ref="char:EOLhyphen"/>out compeiring or expressing of the persone) his repentance and submissioun, in these or vther wordis.</p>
+                  <p>IT WAS signified vnto yow befoir (deirlie belouit) that one certane brother (or brethren) was noted or at the laest suspected of some offēce whereof he being admonished be one and two appered lyghlie to regard the same. And there<g ref="char:EOLhyphen"/>foir was he and his offence notified vnto the
+<pb facs="tcp:173246:10"/>Ministerie in thare assemblie, who according to thare dewtie &amp; charge accused him of the same, And not finding in him such obedience as the professioun of ane christiane requireth, fearing that such offences &amp; stubburnes should engend<g ref="char:EOLhyphen"/>er contempt and infect vtheris. THEY war compelled to notifie vnto yow the cryme, &amp; the proceidingis of the sessioun, mynding to haue socht the vttermost reamedie in caise the offen<g ref="char:EOLhyphen"/>dar had cōtineued obstinat: bot seing that it hath pleased God to mollifie the hart of our brother whose name we neid not to expresse so y<seg rend="sup">t</seg> he hath not onlie acknowledged his offēce, bot also hath fullie satisfied the bretheren that first war offen<g ref="char:EOLhyphen"/>ded and vs the Ministerie. And hath promesed to absteane frome all apperance of such euill <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> whereof he was suspected and admonished: we haue no iust cause to proceid to ony farther extremitie, bot rather to glorifie God for the submissioun of our bro<g ref="char:EOLhyphen"/>ther, &amp; vnfeanedlie pray vnto him that in the lyke caise we and euerie one of vs may geue the lyke obedience</p>
+               </div>
+            </div>
+            <div type="form_of_public_repentance">
+               <pb facs="tcp:173246:10"/>
+               <head>THE FORME AND ORDOVRE of publict repentance.</head>
+               <p>IT is first to be obserued, that none may be ad<g ref="char:EOLhyphen"/>mitted to publict repentance, except that first thay be admitted thairto be the Sessioun &amp; As<g ref="char:EOLhyphen"/>semblie of the Ministeris and Elderis, in the which they ought sharplie to be examinat, what feare and terrour they haue of Gods sudgemē<g ref="char:EOLhyphen"/>tes, what haitrent of sinne and doloure for the same: and what sense and feilling they haue of Gods mercyes, in the which if they be ignorant they ought diligentlie to be instructed, for it is bot an mocking to present suche to publict re<g ref="char:EOLhyphen"/>pentance, as nether vnderstand what sinne is, what repētance is, what is grace, nor be whome is Gods fauour and mercie purchessed. After thē that the offender shall be in the Assemblie in<g ref="char:EOLhyphen"/>structed so that he haue sum taist of Gods Iudge<g ref="char:EOLhyphen"/>mentes, bot cheifly of Gods mercyes in Christ Iesus, he may be presented before the publict Churche vpon an Sonday after the Sermon, and before the prayeris and Psalme, and then the Minister shall say.</p>
+               <p>Beloued and derrest brethren we be reasone of our charge &amp; Ministerie present befoir yow this brother, that by infirmitie of fleshe and craft of Sathan hes feirfullie fallen from the obediēce
+<pb facs="tcp:173246:11"/>of his God by committing. N. of an cryme <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Get the sinne be expressed, by the which he <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not onlie offended against the maiestie of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bot also by the same hes geuin great scland and offence till his holy Congregatioun: a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore doeth till his owen confusioun, (<gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the glorie of God and our great confort) p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>sent himself heir before yow, to witnesse a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> declare his vnfeaned repentance: The thrist a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e care that he hes to be recoūselled with G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> throw Iesus Christ, and with yow his breth<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>home he hathe offended: And therefore it requisite that ye and he vnderstand what ass<g ref="char:EOLunhyphen"/>rance we haue to requyre suche publict sat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> faction of him: what profeit we ought to lear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the same: and what profeit &amp; vtilitie redo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> des to boeth of this his humiliatioun.</p>
+               <p>That publict repentance is the institutioun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, and not mānes inuentioun may be plan<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> gaddered of the wordes of our maister, comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ding that if ony haue offended his brother<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what sorte so euer it be, that he shall go to hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and be recounselled vnto his brother: if the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fence committed against one brother requy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reconsiliatioun: the offence committed again<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many brethren requyreth the same. And if <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man be chargeit be Christ lesus, to go to an <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:173246:11"/>whome he hath offended, &amp; thair by cōfessing of his offence requyre reconsiliation: mucho moir is he bound to seik an whole multitude whome he hes offended, and before thame with all humilitie requyre the same. For y<seg rend="sup">t</seg> wo which our maister Christ Iesus pronunceth against e<g ref="char:EOLhyphen"/>uerie man that hes offended the least one within his Churche, remaneth vpon euerie publict of<g ref="char:EOLhyphen"/>fender, vnto suche tyme as he declare him self willing to remoue the same: which he can neuer do vnto suche tyme as he let the multitude whome he hes offended vnderstand his vnfea<g ref="char:EOLhyphen"/>ned repentance. Bot because that all men of vp<g ref="char:EOLhyphen"/>rycht Iugement agre in this, that publict of<g ref="char:EOLhyphen"/>fences requyre publict repentance, we pas to the secund head, which is, what is it that we haue to considder in the fall and sinne of this our bro<g ref="char:EOLhyphen"/>ther: if we considder his fall and sinne in him only, without hauing consideration of our selfes and of our owen corruptioun, we sall proffeit nothing, for so shall we bot despyse our brother and flatter our selfes. Bot if we shall earnestlie considder what nature we beare, what corruptiō lurketh in it, how prone and reddy euerie one of vs is to suche and greater impietie, then shall we in the sinne of this our brother accuse &amp; dāpne our owen sinnes, in his fall shall we considder &amp;
+<pb facs="tcp:173246:12"/>lawent our sinful nature, also shall we ioyne o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> repentance, teares, and prayeres with him &amp; hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> knowing that no fleshe can be iustefyed befo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Gods presence, if iudgemēt proceid without m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cy. The proffeit which this our brother &amp; <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> haue of this his humiliation is, that we &amp; he m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> be assured that moir reddie is our god to recea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vs to mercy throwght Iesus Christ, his only so<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> then we ar to craue it. It is not sin be it neuer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greuous, that shall debar vs from his fauour if <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> seik to his mercy: for as all haue sinned, &amp; ar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thame selfis destitute of Godis grace. So is <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reddy to shaw mercy vnto al, that vnfenedlie<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for the same: Yea, he doeth not onlie resaue su<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as come, bot he by the mouth of his deir son<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> calleth vpone such as be burdened and laiden<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with sin, and solempnedlie promeseth that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will refreshe thame.</p>
+               <p>We haue besids ane vther commoditie. T<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wit, that if we shall heirefter fall in the lyke<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> greater (for we stand not by our awin powe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bot by grace onlie) that we be not eschamed <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this same sort to humble our self and confe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our offence. Now therefore brother as we <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> praise God in this your humiliatioun, beseiki<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him that it be without hypocrisie. So it becu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>eth yow earnestlie to considder of what my<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb facs="tcp:173246:12"/>and with what hart ye present your self heir be<g ref="char:EOLhyphen"/>fore this Assemblie. It is not your sinne that shal seperate yow from your God, nor from his mer<g ref="char:EOLhyphen"/>cy in Iesus Christ, if yow repent the same: bot hypocrysie &amp; inpenitencie which God remoue frome yow and vs is no wise tollerable before his presence.</p>
+               <p>The offender ought protest before God that he is sory for his sinne, and vnfeanedly desyreth God to be mercyful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vn to him, and that for the obedience of his deare Sone our Lord Iesus Christ.</p>
+               <div type="part">
+                  <head>THE MINISTER.</head>
+                  <p>WE can only se that which is without, and according to your confessioun Iudge, lea<g ref="char:EOLhyphen"/>uing the secreites of the hart to God, who onlie can try and search the same. Bot because vnfea<g ref="char:EOLhyphen"/>ned repentance for sinne, and simple confession of the same, are the mere giftis of God, we will ioyne our prayeris with youris, that the one and the vther may be granted to yow and vs.</p>
+               </div>
+               <div type="prayer">
+                  <head>THE PRAYER.</head>
+                  <p>ETernall and euerleuing God Father of our Lord Iesus Christ, thow that by the mouth of thy holy Propheites and Apostilles, hes plane lie pronunced that thow desyrest not the death of ane sinner, bot rather that he may conuert &amp;
+<pb facs="tcp:173246:13"/>liue: who also hes send thy only Sone to suffe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the cruell death of the Croce, not for the iust<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bot for suche as find them selfes oppressed with burden of sinnes. That by him and his aduoca<g ref="char:EOLhyphen"/>tion they may haue accesse to the throne of thy grace, being assured that before the they shall find fauour and mercy. We are conuened (<gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Lord) in thy presence, and that in the name of this same our Lord Iesus thy deare Sone: to ac<g ref="char:EOLhyphen"/>cuse before the our sinnes, and before the feit of thy maiestie, to craue mercy for the same. We moste hūblie beseche the ô Father of mercyes, first that thow will tuiche and moue our hartes by the power of thy holy Spirite in suche sorte, that we may come to ane trew knawlege of our sinnes: Bot cheifly, ô Lord, it will please the to moue the hart of this our brother. N. &amp;c. who as he hes offended thy maiestie, &amp; an great nū<g ref="char:EOLhyphen"/>ber of this thy holy Congregation by his gre<g ref="char:EOLhyphen"/>uous and publict sinne, so doeth he not refuse publictlie, to acknowledge &amp; confesse the same, as that this his humiliatioun geuin to the glorie of thy name presentlie doeth witnes: Bot be<g ref="char:EOLhyphen"/>cause, ô Lord, the external confessioun without the dolour of the hart auaileth nothing in thy presence, we moste humblie beseche the that thow wilt so effectuallie moue his hart &amp; oures
+<pb facs="tcp:173246:13"/>also, that he and we without hypocrysie, damp<g ref="char:EOLhyphen"/>ning that which thy Law pronunceth iniust, may atteane to some sense and fealing of thy mercy, which thow hes aboundantly shawen vnto mankynde in Iesus Christ our Lord.</p>
+                  <p>Grant, ô Lord, vnto this our brother the repen<g ref="char:EOLhyphen"/>tance of the hart, and sincere cōfession of the mouth to the praise of thy Name, to the cōforte of thy Church, and to the confusion of Sathan. And vnto vs grant ô Lord, that albeit we cā not liue altogether clene of sinne, yet that we fal not in horrible crymes to the dishonour of thy holy Name, to the sclander of our brethren, and in<g ref="char:EOLhyphen"/>famie of thy holy Euangell which we professe. Let thy godlie power, ô Lord, so strenthen our waiknes, that nether the craft of Sathan, nor the tyrannie of sinne draw vs vtterlie from thy obe<g ref="char:EOLhyphen"/>dience. Giue vs grace, ô Lord, that by holynes and innocencie of lyfe, we may declare to this wicked generatioun what difference there is be<g ref="char:EOLhyphen"/>tuix the sōnes of light, &amp; the sonnes of darknes, that men seing our gude workis may glorifie the and thy Sone Iesus Christ our only Sauiour and redemer, to whome with the and the holy Spi<g ref="char:EOLhyphen"/>rite be all honour, praise, and glorie now and euer. Amen.</p>
+               </div>
+               <div type="part">
+                  <pb facs="tcp:173246:14"/>
+                  <head>THE PRAYER FINISHED the Minister shall turne him to the pen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tent brother, and in full audience shal say.</head>
+                  <p>YE haue hard brother what is your dewti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> towardes the Church which ye haue offen<g ref="char:EOLhyphen"/>ded, to wit, that willinglie ye cōfesse that cryme that ye haue committed, asking God mercy for the same, and so that ye may reconseill your sel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the Church, which ye haue offended. Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> haue hard also the affectiō &amp; care of the Church towardes yow there penitent brother notwith<g ref="char:EOLhyphen"/>standing your greuous fall, to wit, that we all heir presentioyne our sinnes with your sinne, we all repute and esteame your fall to be our owen: we accuse our selfes no les then we accuse yow: now finallie we ioyne our prayeres with youris, that we and ye may obtene mercy, and that by the meanes of our Lord Iesus Christ. Let vs therefore brother haue this conforte of yow, that ye will oppenlie and semplie confesse your cryme, and giue to vs attestation of your vnfeaned repentance.</p>
+                  <p>The penitent shall then oppenlie confesse the cryme whatsoeuer it be, and shall desyre Gods mercy, and pray the Church to call to God for mercy with him, and vnfeanedly desyre that he may be ioyned againe to their societic &amp; nūber.
+<pb facs="tcp:173246:14"/>IF the penitent be confounded with shame, or suche one as can not distinctlie speik to the confort and instruction of the Church, the Mi<g ref="char:EOLhyphen"/>nister shall mak repetition, that euerie head may be vnderstand by the self, and thereafter shall ask the penitent if that be his confession, &amp; if so he beleueth. His answer affirmatiue being resa<g ref="char:EOLhyphen"/>ned, the Minister shall ask the Congregation if they ludge any forther to be requyred for their satisfactioun, and reconsiliation of that brother. No cōtradictioun being made, the Minister shal say to the penitent.</p>
+                  <p>We haue hard deare brother your confessiō, for the which we from our hartis praise God, for in it the Spirite of Iesus Christ hath confoū<g ref="char:EOLhyphen"/>ded the Deuill, and broken doun his head and power in that, that ye to the glorie of God haue oppenly dampned your self and your impietie, imploring grace and mercy for Christ Iesus his Sones sake. This strenth, submission and obedi<g ref="char:EOLhyphen"/>ence can not proceid from fleshe and blude, bot is the singular gift of the holy Ghost. Acknow<g ref="char:EOLhyphen"/>ledge therefore it to be geuin vnto yow by Ie<g ref="char:EOLhyphen"/>sus Christ our Lord, and now tak head least at any tyme ye be vnmyndefull of this great beni<g ref="char:EOLhyphen"/>fite, which no doubt Sathan doeth inuy, &amp; will assaile by all meanes possible that yow may a<g ref="char:EOLhyphen"/>buse
+<pb facs="tcp:173246:15"/>it: he will not cease to tempt yow to fall a<g ref="char:EOLhyphen"/>gaine in suche or crymes more horrible. Bot re<g ref="char:EOLhyphen"/>sist the Deuill and he shall flee from yow. Liu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in sobrietie, be instant in prayer, commend you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> self vnfeanedlie to God, who as he is faithfull, s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> shall he giue to vs victorie ouer sinne, death, &amp; Sathan, and that by the meanes of our head and Souerane campioun Iesus Christ, to whome be all praise glorie and honour now &amp; euer. Amen.</p>
+               </div>
+               <div type="part">
+                  <head>Ane admonition to the Church.</head>
+                  <p>IT is your dewtie brothren to tak exemple of this our penitent brother: first, that ye be vn<g ref="char:EOLhyphen"/>feanedly displeased in your owē hearts for your sinne:, secundarly, that with this our brother ye accuses thē in the syght of God, imploring grace and mercy for your offences committed: and last, if any of yow shall after this publictlie of<g ref="char:EOLhyphen"/>fend that ye refuse not with the lyke reuerence to satiffie the Church of God offended in yow. Now only resteth that ye remit and for yet all offences which ye haue consaued heretofore by the sinne and fall of this our brother, accept and embrace him as ane member of Christs body: let none take vpon him to reproche or accuse him for any offences that before this hour he hath
+<pb facs="tcp:173246:15"/>committed. And that he may haue the better as<g ref="char:EOLhyphen"/>surance of your good wil and recōciliation pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rate your selfes before God, and render him <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ankes for the conuersion and repentance of his our brother.</p>
+               </div>
+               <div type="part">
+                  <head>The thankes geuing.</head>
+                  <p>HEauenly Father, fontane of all mercy and consolation, we confesse our selfes vnwor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hie to be compted amonges thy children, if <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>how haue respect to the corruption of our na<g ref="char:EOLhyphen"/>ture: but seing it hath pleased thy fatherly good <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>es, not only frelie to chuse vs, in thy deare sone our Lord Iesus Christ, by his death to redeme vs, by his Euangell to cal vs, and by his holy spi<g ref="char:EOLhyphen"/>rite (which bothe are thyne) to illuminate vs.</p>
+                  <p>Bot also that thow hath commanded thy word and holy Euangell to be preached, to the end, that the penitent shall haue an assurance of the remission of their sinnes, not only for a tyme, bot euen als oft as men from sorrowfull hearts shall call for thy grace and mercy. In considera<g ref="char:EOLhyphen"/>tion of this thy fatherlie adoption and ineffable clemencie showen vpon vs we can not bot praise and magnifie thy fatherlie mercy: an testimonie whereof we not only feale in our selfes, but also seith the same euidentlie in the conuersion of this our brother, whome Sathā for an tyme held
+<pb facs="tcp:173246:16"/>in bondage, bot now is set at fredome by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> power of our Lord Iesus Christ, and is returne againe to the societie of his body: Grant vnto vs heauenlie father, that he and we may more <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> more be displeased for our sinnes, and procei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in all maner of good workes, to the praise of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> holy name, and edification of thy Church, by Iesus Christ our Lord and only Sauiour. So bei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>The thankes finished, the Minister shall re<g ref="char:EOLhyphen"/>quyre of the penitent if that he wil be subiec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the discipline of the Church, in caise tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he after offendeth, who answering that he will, the Minister shall say in maner of abso<g ref="char:EOLhyphen"/>lution.</p>
+                  <p>If thow vnfeanedly repentis thy former in<g ref="char:EOLhyphen"/>iquitie, and beleues in the Lord Iesus, then I in his Name pronunce and affirme that thy sinnes ar forgeuin not only in earth, but also in the he<g ref="char:EOLhyphen"/>uen according to the promises annexed with the preiching of his word, and to the power put in the Ministerie of his Church.</p>
+                  <p>Then shal the Elders &amp; Deacons with Mi<g ref="char:EOLhyphen"/>nisters if any be, in name of the hole Church take the reconsealed brother by the hand, &amp; embrace him in signe of full reconsiliation. There after shall the Churche sing the .103.
+<pb facs="tcp:173246:16"/>Psalme, so muche as they think expedient. And so shall the Assemblie with the benedi<g ref="char:EOLhyphen"/>ction be dimissed.</p>
+               </div>
+               <div type="part">
+                  <head>¶ The forme of excommunication.</head>
+                  <p>AFter that all admonitiones, bothe priuate &amp; publict be past, as before is said, then must the Church proceid to excommunication, if the offender remaine obstinate. The Sonday there<g ref="char:EOLhyphen"/>fore after the thrid publict admonition, the Mi<g ref="char:EOLhyphen"/>nister being before charged be the Session or Elders, shall thus signifie vnto the Church after Sermon.</p>
+                  <p>It is not vnknowen vnto yow, with what leni<g ref="char:EOLhyphen"/>tie and carefulnes the Ministerie and the whole Church by priuate &amp; publict admonitions hath soght. N. &amp;c. to satisfie the Church, and to de<g ref="char:EOLhyphen"/>clare him self penitent of his greuous crymes &amp; rebellion by the which he hath offended Gods Maiestie, blasphemed his holy Name, and offen<g ref="char:EOLhyphen"/>ded his Church, in whome to this day we finde nothing bot stubburnes, we can not therefore of conscience wink any longer at the disobedience of the said. N. least that his exemple infect and hurt vthers, We are compelled therefore in the feare of God to giue the said. N. in the hands &amp; power of the Deuill, to the distruction of the
+<pb facs="tcp:173246:17"/>fleshe, if that by that meane he may be broght the cōsideration of him self, &amp; so repent, &amp; a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>id that fearful cōdempnation that shall fal on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> inobedient in the day of the Lord Iesus. A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> least that ony shal think that we do this of ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lie presumptioun without the assurance of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Scriptures, ye shall shortlie heir what comman<g ref="char:EOLunhyphen"/>dement and authoritie we haue so to do.</p>
+                  <p>First, we haue the commandement of our m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ster and Sauiour Iesus Christ, to holde suche fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ethnikes &amp; publicanes, as will not heir the vo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Church. But plaine it is, that this obs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>nate. N. hath contempteously refused all ho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> some admonitions, and therefore we not one <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> two, but the whole Church must holde him a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ane publicane, that is, as one cutted of the body of Iesus christ, &amp; vnworthie of any societie with him, or with the benefites of his Church, till hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> new conuersion and his resauing againe.</p>
+                  <p>Secundarly, we haue the command of the A<g ref="char:EOLhyphen"/>postle S. Paule, and that feareful sentence, which he being absent did notwithstanding pronunc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> against the incest, with his sharp rebuke to the Corinthianes, because that with greater zeale &amp; expedition they expelled not frome amonge<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them that wicked man. And if any think that y<seg rend="sup">e</seg> offēce of this foirnamed obstinate, is not so hay<g ref="char:EOLhyphen"/>nous,
+<pb facs="tcp:173246:17"/>as that of the incest, let suche vnderstand, that mercy and fauour may rather be granted til any vther sinne, then to the contempt of hole<g ref="char:EOLhyphen"/>some admonitions, and of the iust and laughfull ordinances of the Church. For vther sinnes how haynous that euer they be (so be it that they deserue not death) as by vnfeaned repentance they are remitted before God, so vpon the same humblie offered vnto the Church, ordour may be taken that the offender may be conforted, &amp; at lenth restored to the societie of the Church againe: but suche as proudlie contempne the ad<g ref="char:EOLhyphen"/>monitions of the Church, priuate or publict, declare thame selfes stubburne, rebellious, and altogether impenitent, and therefore moste iust<g ref="char:EOLhyphen"/>lie ought they to be excommunicate.</p>
+                  <p>The precept of God geuin vnder the Law to expell from the middes of Gods people, such as were leprous (without exception of persones) is to vs an assurance that we ought to expell from the societie of Christes body suche as be striken with spirituall leprosie, for the one is no les in<g ref="char:EOLhyphen"/>fectiue and dangerous then is the vther. Now seing that we knowe excommunication is Gods ordinance, let vs in few wordes vnderstand the vtilitie and vse of the same.</p>
+                  <p>By it first is the Churche purged of oppen
+<pb facs="tcp:173246:18"/>wicked doers, which is no smal commoditie, cō<g ref="char:EOLunhyphen"/>siddering that we feght in the myddes and eye of this wicked generation, which seiketh in <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> nothing more then occasion of sclander. Secun<g ref="char:EOLhyphen"/>darly, by it is the Church and euerie member o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the same reteaned in obediēce and feare, where of all had neid if the frayltie of our fleshe shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be rightly considdered. Thridly, by it we exe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>cise ane singulare worke of cheritie, whill tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> we declare our selfes carefull to kepe the flock of Christ in puretie of maners, and without dan<g ref="char:EOLunhyphen"/>ger to be infected: for as it were an work both vncheritable and cruell to ioyne together i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> one bed persones infected with pestilēt or vth<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> contagious and infectiue sores with tender chil<g ref="char:EOLunhyphen"/>dren, or with such as were hole: so is it no <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> crueltie to suffer amonges the flocke of Ies<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Christ such obstinat rebelles. For trew is th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sentence of the Apostle, an lytill leauen corrup<g ref="char:EOLhyphen"/>teth the whole masse. But least that we shall sen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to vsurpe power ouer the Church, or to do an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thing without the knowledge and cōsent of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whole body, for this present we delay the sen<g ref="char:EOLunhyphen"/>tence, willing such as haue any thing to obie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the contrair to propone the same the nixt Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>sion day, or elles to signifie the same to some <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Ministeris or Eldaris that answer may be g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb facs="tcp:173246:18"/>uin thereto, and in the meane tyme we will call to God for the conuersion of the impenitent.</p>
+               </div>
+               <div type="part">
+                  <head>¶ The prayer for the obstinat.</head>
+                  <p>ETernall and euerlyuing God, Father of our Lord Iesus Christ, whose verray propertie is to shewe mercy, and to restore lyfe, euen whē to mannes Iudgement death hath gottin domi<g ref="char:EOLhyphen"/>nion ouer thy creatures: for thow first soght, cal<g ref="char:EOLhyphen"/>led, accused, and conuicted, our Father Adame after his transgression, &amp; being so dead in sinne, and thrall to Sathan, that he could nether con<g ref="char:EOLhyphen"/>fesse his offence, nor yet ask mercy for the same. Thow by thy fre promyses of mercy and grace, gaue vnto him an new lyfe, and strenth to repēt. The same ordour muste thow kepe, ô Lord, with all thy chosen children of his posteritie. For in mannes corrupt nature there can be no obedi<g ref="char:EOLhyphen"/>ence, whill that thow by operation of thy holie Spirite worke the same. And therefore we moste humblie beseke the for Iesus Christ thy Sones saik pitifullie to look vpone this thy creature, who ones was baptised in thy name: &amp; hath pro<g ref="char:EOLhyphen"/>fessed him self subiect to thy religioun, and vnto the discipline of thy Church: whome sathan (al<g ref="char:EOLunhyphen"/>lace) now so blyndeth that obstinatly he contē<g ref="char:EOLhyphen"/>pneth
+<pb facs="tcp:173246:19"/>the one and the vther. We haue followed ô Lorde, the rewlle prescribed vnto ws by thy deir Sone our Lord Iesus Christ in admonishin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and threatning him, bot hidderto haue profite nothing concerning him &amp; his humiliatioun.</p>
+                  <p>Bot ô Lord as thow allone knowes, so may thow allone change and mollifie the hartes <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the proude and impenitent. Thow by the vo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of thy Propheit Nathan walkened Dauid from his dedlie securitie. Thow without ony prophe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bet doune the pryde of Manasses in the presone efter that he Shad ched the bloode of thy se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>uandis, and had replenished Ierusalem with <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> kynd of impietie. Thow turned the hart of Pete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> at the looke of thy deir Sone, oure Lord Ies<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Christ efter that feirfullie with horrible impre<g ref="char:EOLunhyphen"/>cationis he had thrise oppinlie denyed him.</p>
+                  <p>O Lord thy mercyes without measure in dure so euir. To the which we efter long trawel do rem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this obstinat &amp; impenitēt. Earnestlie desiring th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ô father of mercies, first so to peirse his harte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the feir of thy seueir iudgemēts y<seg rend="sup">t</seg> he may begi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to vnderstād that thus cōtemning all holsome a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> monitions he prouokis thy wraith &amp; indignatio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> against him self. Oppen his eyis that he may s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> how feirful &amp; terrible â thing it is to fal into th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hands: &amp; thereftir molifie and oynt his harte b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:173246:19"/>the vnction of thy holie spirit. That he may vn<g ref="char:EOLhyphen"/>feanedlie cōuert vnto the, &amp; geue vnto the that honour and obedience y<seg rend="sup">t</seg> thow requirest in thy holie worde, &amp; so to our cōfort that now murne for his rebellioun, that he may subiect him self to the iuste ordinance of thy Church, &amp; a woide that feirfull vengeance that most assuredlie shall fall vpone all the inobedient. These thy graces Heauinlie Father, &amp; Farther as Thow knowest to be expedient for vs &amp; for thy Church vniuer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sall we call according as we be taught to pray be our Souerane Maister Christ Iesus saying.
+<q>OVR FATHER. &amp;c.</q>
+                  </p>
+               </div>
+               <div type="part">
+                  <p>THE secund Sounday efter sermone &amp; pub<g ref="char:EOLhyphen"/>lict prayeris the minister shall in audience of the hole Church ask the Eldars &amp; Deacons, who man sit in ane eminent &amp; propir place, that there answer may be hard.</p>
+               </div>
+               <div type="part">
+                  <head>THE MINISTER.</head>
+                  <p>HATHE N. whome the last day we admo<g ref="char:EOLhyphen"/>nished vnder the pane of excommunicatioun to satisfie the Church for his publict sclander and contempt of the ministerie be him self or be any vther offerred his obedience vnto yow.</p>
+                  <p>They shall answer as the trueth is yea or nay.</p>
+                  <p>IF he hathe soght the fauoris of any withi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:173246:20"/>the ministerie with promise of obedience, then shall farther processe be delayed, and he com<g ref="char:EOLhyphen"/>manded, to appeir before the sessioun in there nixt assemblie where ordour may be takin for his publict repentance, as in the formar head is expressed. If he haue not labored to satisfie the Church, then shall the minister proceid and say.</p>
+                  <p>IT can not be bot dolorous to the bodie that any one membre thereof should be cut of and perish, and yet it aucht to be more feirfull to the member then to the bodie, for the membre cut of can do nothing bot putrefie and perish, &amp; yit the bodie may reteane lyif and strenth. Bot the rebellioun of this obstinat may proceid in one parte frome ignorance for it may be that he vn<g ref="char:EOLhyphen"/>derstandeth not what excōmunicatioun is, and what is the danger of the same: I shall there foir in few wordis oppin the one and the vther.</p>
+                  <p>Laughfull excommunicatioun (for the thon<g ref="char:EOLhyphen"/>dringis of that Romane Antichrist ar bot vanitie and wynd,) is the cutting of frome the body of Iesus Christ, frome participatioun of his holy S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cramentis, and frome publict prayeris with his Church. by publict &amp; solemned sentence all ob<g ref="char:EOLhyphen"/>stinat and impenitent personis eftir dew admoni<g ref="char:EOLunhyphen"/>tionis, which sentence laughfullie pronunced in earth is ratified in the heauin, by bynding of the
+<pb facs="tcp:173246:20"/>same sinnes that they bynd in earth. The danger heir of is greater then man can <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udandlie espy, for seing that without the body of Iesus Christ, ther abydeth nothing bot death &amp; dānation to mankynd, in what estait shall we iudge thame to stand that, iustlie, ar cutted of frome the same.</p>
+                  <p>Yea, what horrible vengeance hyngeth vpon thame and there posteritie, notable and seueir punishmentis may instruct vs. Cain the murthe<g ref="char:EOLhyphen"/>rar was not accurssed within his awin person<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> onlie, bot that same maledictioun rang in his posteritie, and vpon all that ioyned there with, til that all mankynd was destroyed by watter (Viiy. personis reserued) Cham lykwyse was accurssed in his sone Canaan, the seueritie wheir of proce<g ref="char:EOLhyphen"/>ded euin to the exterminion of that hole rase and natioun.</p>
+                  <p>THE sempill worde of our Master IESVS Christ caused the Fig Tree suddanlie to wither. At the voce of Peter, Ananias, and Saphira, war striken to death. The same God &amp; Lorde Iesus with the power of his holie spirit that then was potent and iust, wirkis euin now in the ministerie of his Church. The contempt wheir of he will in nowise suffer vnpunished. And therefoir ye that haue acquentance or familiaritie with the soir<g ref="char:EOLhyphen"/>named obstinat declair vnto him those dangeris
+<pb facs="tcp:173246:21"/>and will him not to tempt the vtermoist, &amp; thus yit agane let vs pray to God for his conuersion.</p>
+                  <p>Let the formar prayer be publictlie said.</p>
+               </div>
+               <div type="part">
+                  <p>THE thrid Sonday let the first questioun be proponed by the minister to the Eldars and <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>conis cōcerning the submissiō of the obstinat so oft admonished as was proponed the secund: if repentance be offered let ordour be takin as is befoir said, with one charge to the Church to prayse God for the cōuerssioun of that brother. If repentance be not offered, then shal the mini<g ref="char:EOLhyphen"/>ster expone whereinto the persone that is to be excōmunicat, hath offended how oft, &amp; by whō he hathe bene admonished alswell priuatlie as publictlie, and shall demand of the Eldaris and Deaconis if so was not, whose answer resaued, The minister shall ask the hole Church, if they think that such cōtempt shuld be suffered amāgs thame: and if then no man mak intercession for the obstinat, the Minister shall proceid and say.</p>
+                  <p>OF Verray conscience we ar compelled to do that which to our hartis is most dolorus, to wit, to geue ouer in the handis of the Deuill this foir named obstinat contempnar. N. whome ones we esteamed one member of our body, and that not onlie for the cryme that he hathe cōmitted,
+<pb facs="tcp:173246:21"/>bot muche rather for his proude cōtempt and intollerable rebellioun lest that our sufferance of him in this his impietie shuld not only be im<g ref="char:EOLhyphen"/>puted vnto vs, bot also that he shuld insect vthers with the same pestilence. And therefore we man vse the last remedy, how greuous that euer it be vnto vs. AND yit I desire yow for more ample declaratioun of your christiane cheritie towards him, ye pray with me vnto God now for the last for his conuersioun.</p>
+                  <p>THE last prayer before the excōmunication.</p>
+               </div>
+               <div type="prayer">
+                  <p>OMnipotent, Eternall and mercyfull Father, who for that good will that thow bearest vnto vs in Iesus Christ thy deir Sone, will not y<seg rend="sup">e</seg> death and destructioun of ane sinnar. Bot rather that he by inspiratioun and mouing of thy holie spirite cōuert &amp; liue: who also doeth witnes the vertew &amp; strenth of thy worde to be such, that it causeth the Montanes to schaik, the Rockes trē<g ref="char:EOLunhyphen"/>ble, and the Floodes to dry vp. Behald we thy children &amp; peple heir prostrat before thee, moist humblie beseik the in the name of thy deir Sone our Lorde Iesus Christ. That thow will moue &amp; peirse the harte of our impenitēt brother whom Sathan so long hathe indured and hardened: let it pleis thy Maiestie be the vertew of thy holie
+<pb facs="tcp:173246:22"/>spirite, that thow wilt mollefie the same. Expell <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> darknes and by the lyght of thy grace that know wilt so illuminat him that now at length he may feill first how greuouslie he hathe offended aganis thy Maiestie. And secundarlie against thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olie Church, &amp; assemblie: Geue him thy grace <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o acknawledg, accuse, &amp; dampne alsweil befoir vs whom he hath offēded as befoir thy presence this his proude contēpt, least that we be the same prouoked be cōpelled with all our greiffis to cut him of thy mysticall body, whom we ô Lorde vnfeanedlie desire to reteane w<seg rend="sup">t</seg> in thy Church as one lyuelie mēber of thy deir Sone our Lorde Iesus, heir vs mercyfull father, cal bak agane this our Impenitēt brother y<seg rend="sup">t</seg> now tendith to eternal destructiō. That we al who before thy presence euin for his rebellion do mourne may receaue him agane with gladnes &amp; ioy, &amp; so render pra<g ref="char:EOLhyphen"/>yse and honour vnto the befoir this thy holie cōgregatioun.</p>
+                  <p>We grant oure selfis ô Lord, vnworthy whome thow shuld heir, because we cease not to offend the by oure continewal transgressing of thy ho<g ref="char:EOLhyphen"/>lie preceptes. Looke not vpone vs mercyfull fa<g ref="char:EOLhyphen"/>ther in this oure corrupt nature, bot looke thow to thy deir Sone, whome thow of thy mere mer<g ref="char:EOLunhyphen"/>cy hathe appointed oure head, great Bishope ad<g ref="char:EOLunhyphen"/>uocate,
+<pb facs="tcp:173246:22"/>Mediator, and onlie Propitiator, in him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd in the meritis of his death. We humblie be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>che the mercyfullie to behald vs, &amp; suffer not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e m<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nnocent blode of thy deir Sone sched <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for this our impenitent brother, to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rophaned by the tyranny &amp; slyght of Sathan.</p>
+                  <p>Bot by the vertew of the same let this oure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mpenitent brother be broght to vnfeaned repē<g ref="char:EOLhyphen"/>tance, that so he may eschaip that feirfull con<g ref="char:EOLhyphen"/>demnatioun in the which he appereth to fall. This we ask of the ô heauinlie father in the bol<g ref="char:EOLhyphen"/>dnes of oure head, and Mediator Iesus Christ, praying as he hath taught vs. Oure Father.</p>
+               </div>
+               <div type="part">
+                  <p>IF eftir this prayer the obstinat compeir not to offer his repentance, then shall the Minister proceid and say.</p>
+                  <p>Bretheren seing that as ye haue hard this ob<g ref="char:EOLhyphen"/>stinat and impenitent persone. N. hathe so greuouslie offended against GOD, and against this his holie cōgregatioun, who be no meanes as ye may perceaue can be broght to repentan<g ref="char:EOLhyphen"/>ce, whereof it is euident by the word of God that he is fallin frome the Kingdome of Heauen and frome the blessed societie of the LORDE IESVS. AND we (albeit with dolour of
+<pb facs="tcp:173246:23"/>our hartes) may now execute that which the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> mandemēt of Iesus Christ, and the practise of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Apostile schaweth that of oure office we au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to do. To wit. that we shall publictlie declair<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pronunce such to haue no societie with vs, declair thame selfis obstinat &amp; rebellious aga<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> all hoisome admonitiounis, and the blessed o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>dinances of his Church, &amp; that we may do th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> same. Not of oure awin authoritie, bot in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me and power of oure Lorde Iesus Christ b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>fore whome all kneis ar compelled to bow. L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vs humblie fall doune before him, and on th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> maner pray, and pronunce this sentence.</p>
+               </div>
+               <div type="part">
+                  <head>The inuocatioun of the name of Iesus Christ to excōmunicat the impenitent, To gitther with the sētence of excōmuni<g ref="char:EOLhyphen"/>catioun.</head>
+                  <p>OLORDE Iesus Christ the onlie &amp; eter<g ref="char:EOLhyphen"/>nall King of all the chosin children, of thy Heauinlie Father, the head and lawgeuer of thy Church, who by thy awin mouth hath cōman<g ref="char:EOLhyphen"/>ded that such offendars as proudlie contemp<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the admonitiouns of thy Church, shall be ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> out frome the societie of the same, &amp; shal be re<g ref="char:EOLhyphen"/>puted of thy prosessouris as prophane Ethnicks<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> We willing to obey this thy precept which also
+<pb facs="tcp:173246:23"/>we haue receaued be institutioun of thy Apostile <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>heir presenlie conuened in thy name to excō<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>nicat and cast furth frome the societie of thy <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>lie bodie. and frome all participatioun with <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y Church in Sacramentis or prayeris. N. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Which thing we do at thy cōmandement, &amp; in <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y power &amp; authoritie to the glorie of thy ho<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>name. To the conseruatioun and edification <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> this thy Church, in the which it hath plesed <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>he to place vs Ministers: And to the extreme <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>emedie of the stubburne obstinacie of the fore <gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>amed impenitēt, and because y<seg rend="sup">u</seg> hast promessed <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hy self, euir to be with vs. Bot specialie with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uch as vprightlie trauel in the ministerie of thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hurch whom also thow hes promissed to instr<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct &amp; guyde be y<seg rend="sup">e</seg> dictament of thy holie spirit.</p>
+                  <p>WE most humblie beseche the so to gouerne &amp; assist vs in the execution of this oure charge. That whatsoeuir we in thy name do heir pro<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unce in earth, that thow wilt ratifie the same in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Heauin. Oure assurance ô Lor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le is thy ex<g ref="char:EOLhyphen"/>pressed word. And thairfore in boldnes of the same. HEIR I IN THY NAME AND at the cōmandment of this thy present congregatioun <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut of, seclude, &amp; excommunicat frome thy bo<g ref="char:EOLhyphen"/>die, and frome oure societie. N. as one persone selanderous proude contempnar, and one mem<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:173246:24"/>for this present all to gither corrupted <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pernicious to the bodie. And this his sin (al<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> with sorow of hart) be vertew of oure minist<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> we bynd and pronunces the same to be bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in Heauin and Earth. We farther geue ouer the handis, &amp; power of the Deuill the said. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the destructioun of his fleshe, Straitlie ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> geing all that profes the LORDE IESVS. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whose knawledge this our sentence shal cum, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> reput and hald the said. N, accurssed, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> worthie of the familiar societie of Christian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </p>
+                  <p>Declaring vnto all men that such as heires<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> befoir his repentance shall hant, or familiar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> accumpanie him, ar partakaris of his impietie, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> subiect to the lyke condemnatioun. This o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> sentence ô Lorde Iesus pronunced in thy na<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> &amp; at thy cōmandemēt we humblie desire the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ratifie according to thy promis. And yit Lord y<seg rend="sup">u</seg> that come to saue that which was lost, look vpone him with the eyis of thy mercy, if th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good pleasour be. And so peirs thow his hart, he may feil in his breist the terrours of thy Iud<g ref="char:EOLhyphen"/>gementis, that by thy grace he fructfullie ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be conuerted to thee. And so damning his aw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> impietie, he may be with the lyke solemnitie r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ceaued within the bosome of thy Church, fro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the which this day (w<seg rend="sup">t</seg> greif and dolour of ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:173246:24"/>hartis) he is elected.</p>
+                  <p>LORDE in thy presence we protest that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>urawin affections moue vs not to this seueritie: <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ot onlie the hatrent of sin, and obedience that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e giue to thy awin cōmandement. And therfor <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Heauinlie Father we craue the perpetuall as<g ref="char:EOLhyphen"/>stance of thy holy spirit, not onlie to brydill <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur corrupted affectionis, bot also so to conduct <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s in all the cours of our hole lyf, that we neuir <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll to the lyk impietie &amp; contempt: Bot that cō<g ref="char:EOLunhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inuallie we may be subiect to the voce of thy Church, and vnto the Ministers of the same, who treulie offer to vs the word of lyfe the ble<g ref="char:EOLhyphen"/>ssed Euangell of thy onlie belouit Sone Iesus Christ. To whome with the and the holy spirit be all prayse glorie &amp; honour now &amp; euer. So beit.</p>
+                  <p>The sentence pronunced &amp; the prayer ended. THE Minister shal admonish the Church y<seg rend="sup">t</seg> all the faithfull hald the excōmunicat as an Ethnik <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s before is said, that no man vse his familiare company. And yit that no man accuse him of o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y vther cryme, then of suche as he is cōuicted of, and for the which he is excommunicat.</p>
+                  <p>Bot that euerie man shall secretlie call to God for grace to be granted to y<seg rend="sup">e</seg> excōmunicat. Such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s haue office in the Ministerie may vpone lice<g ref="char:EOLhyphen"/>ence
+<pb facs="tcp:173246:25"/>required of the Church speik with the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> communicat, so long as hope resteth of his co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>uersioun: Bot if he cōtinew obstinat then au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all the faithfull vterlie to abhor his presens a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> cōmunication: And yit aucht thay more earn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lie to call to God that Sathan in the end may <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> confounded, &amp; the Creature of God fred fro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> his snares by, the power of the Lorde Iesus. A<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> w<seg rend="sup">t</seg> the accustomed benediction the assembly s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> be dimissed efter they haue song the 101. pl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> or one portion thereof, as it shall pleise the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>gregatioun.</p>
+               </div>
+               <div type="part">
+                  <head>The ordoure to receaue the excōmunicat agane to the societie of the Church.</head>
+                  <p>FIrst we must obserue that such as deserue d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ath for y<seg rend="sup">e</seg> cryme cōmitted, neuir be admitte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the societie of the church vnto suche tyme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ether y<seg rend="sup">e</seg> Magistrat punish according to the la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> or ellis pardon the crym, as before we haue sa<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Bot such as for vther offences &amp; for there cōte<g ref="char:EOLhyphen"/>mpt ar excōmunicat may be receaued whē the shall earnestlie seik the fauouris of the church They must begyne at the Ministerie the Elda<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> &amp; Deaconis, who must expone there repenta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the Minister, or Ministeris in there assembli<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> â day may be appointed to the excommunic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to present him self before thame. The signes o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:173246:25"/>his repentance aucht to be diligently inquired, as what hathe bene his behauour sence the tyme of his excōmunication, what he will offer for sa<g ref="char:EOLhyphen"/>tisfaction to the Church: And vnto whome he hath exponed the grefe and dolour of his hart: If the excōmunicat be found penitent &amp; obedi<g ref="char:EOLhyphen"/>ent in all thingis: The minister the nixt Sonday may geue aduertisment to the hole Church of his humiliation, and command theme to call to God for increase of the same: The nixt session day the Minister may appoint to the excōmni<g ref="char:EOLhyphen"/>cat such satisfaction as they think most expediēt to the which if the excommunicat fullie agre, then may the said Ministerie appoynt vnto him me certane day when he shall fulfill the same.</p>
+                  <p>FOR this is principalie to be obserued, that no excōmunicat persone may be receauid to the so cietie of the church agane, vnto such tyme y<seg rend="sup">t</seg> he haue stand at y<seg rend="sup">e</seg> church dure, at the least mo Sō<g ref="char:EOLhyphen"/>dayis then one. Which dayis being expirid, and the hole satisfaction complete, some of the El<g ref="char:EOLhyphen"/>dars shall pas to the excommunicat, efter that the formar prayer of the Minister in the Pulpet be ended. And shall present him to an certane place appointed for the penitents, where he shall stand in the same habite, in the which he maid satisfaction vntill the Sermone be ended. And then shall the same Eldars that broght him
+<pb facs="tcp:173246:26"/>in the Church present him to the Minister with these or the lyke wordis,</p>
+                  <p>THIS creature of Godis, N. that for h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> wickednes and obstinat rebellion hath bene <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> cōmunicat from the body of IESVS CHRIS<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bot now by the power of the spirit of God called bak agane by repentance, so far as the iud<g ref="char:EOLhyphen"/>gemēt of man can persaue, for he hath not o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> craued the fauors of the ministerie, y<seg rend="sup">t</seg> he my g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be receaued into the bodie of the Church aga<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> bot also most obedientlie hath subiected hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> self to all that we haue cōmanded, for tryell <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> his humiliatioun: And therefoir we present hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> befoir yow to be examinat, &amp; if his repentan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be sufficient to be receaued agane to the bod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Church.</p>
+                  <p>Then shall the Minister Rander thankis, fu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to God for that parte of his humiliation, &amp; also desyre the Church of God to do the same with him. Therefter he shall addres him to the per<g ref="char:EOLhyphen"/>sone excommunicat. And first shall lay before him his sin, therefter the admonitions that wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> geuin vnto him to satisfie y<seg rend="sup">e</seg> Church for the sam. And last his proud contempt &amp; long obstinaci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the which he was excōmunicat. And of eue<g ref="char:EOLhyphen"/>rie one he shall require his peculiare confession with accusation of him self, and detestatioun o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb facs="tcp:173246:26"/>his impietie. Which being receaued he shal ren<g ref="char:EOLunhyphen"/>der thankis to God as followeth.</p>
+                  <p>WE thank the mercy and goodnes of God through lesus Christ oure Lorde for this thy conuersion. N. In to the which thow hast not so muche eshamed thy self, as that thow hast cō<g ref="char:EOLhyphen"/>founded &amp; owircome Sathan, by whose wen<g ref="char:EOLhyphen"/>toum &amp; deceauable entismentes thow hetherto<g ref="char:EOLhyphen"/>hast bene rebelliouse to the holsome admoniti<g ref="char:EOLhyphen"/>onis of the Church: And yet because we can bot onlie see that which is externall We will loyne our Prayeris with Thyne, that this thy humiliation may procead frome the hart.</p>
+                  <p>Let the prayeri sappoynted to be said in the receaueing of the penitēt be said also heir: which ended let the Church and the peniteut be ad<g ref="char:EOLhyphen"/>monished as there is expremed. Except that the cry me of his excō<g ref="char:EOLhyphen"/>munication most euir be Aggredged and mentionat.</p>
+               </div>
+               <div type="prayer">
+                  <head>The prayer cōteanīg his receuaing to y<seg rend="sup">e</seg> church.</head>
+                  <p>LORDE Iesus Christ King, techar, and oure eternall Preist, who with the preaching of thy blessed Euangell hath ioyned the power to bynd and lowse the sinnes of men: who hath also pronunced, that whatsoeuir by thy ministe<g ref="char:EOLhyphen"/>ris is bound in earth, shal be bound in y<seg rend="sup">e</seg> Heauin.</p>
+                  <p>And also that whatso euir is lowsed by the same, shal be lowsed &amp; absolued with the in the
+<pb facs="tcp:173246:27"/>Heauin, looke ô Lord mercysullie vpon this thy creature. N, &amp;c. whome Sathan of long tyme hathe holdin in bondage, so that not onlie he drew him to iniquitie, bot also that he so harde<g ref="char:EOLhyphen"/>ned his harte that he dispised all admonitiouns, for the which his sin and contempt we war cō<g ref="char:EOLhyphen"/>pelled to excōmunicat him from our body. Bot now ô Lorde, seing that the spirit of our Lorde Iesus Christ hath so far preualed in him. That he is returned to our societie, it will pleis the for the obedience of our Lorde Iesus so to accept him, that his formar inobedience be neuer laid to his charge. Bot that he may increase in all Godlines till that Sathan sinallie be troddin vn<g ref="char:EOLhyphen"/>der his feit and ours, by the power of our Lord IESVS CHRIST, to whome with the and with the holie Spirit be all honor and glorie now and euir. SOBEIT.</p>
+               </div>
+            </div>
+            <div type="form_of_absolution">
+               <head>The forme of Absolutioun.</head>
+               <p>IN the name &amp; authoritie of IESVS CHRIST I the Minister of his blessed Euangell with co<g ref="char:EOLhyphen"/>sent of this hole Ministerie &amp; Church, Absolue the N. Frome the sentence of excōmuncation, frome the sin by the commited, and frome all Censures led aganst the for the same of before according to thy repentance. And pronunce
+<pb facs="tcp:173246:27"/>thy sin to be lowsed in Heauin, and the to be re<g ref="char:EOLhyphen"/>ceaued agane to the societie of Iesus Christ, to his bodie the church. To the participatō of his Sacramēts,. And finallie to the fruitioun of all his benefits. In the name of the Father, the sone and the holy Spirit. So be it.</p>
+               <p>The absolution pronunced, the Minister shall then call him Brother &amp; geue him admonition, to watche and pray, that he fall not in the lyke tentatioun. That he be thankfull for the mercy shawin vnto him and that he shaw the fructis of his conuersion in lyfe &amp; conuersatioun.</p>
+               <p>Therefter the hole Ministerie shall embrace him, &amp; suche vthers of the Church as be nixt vnto him: and then shall one Psalme of thankis geuing be song.</p>
+               <p>This ordour may be enlarged or contracted as the wisdome of the discreat minister shall think expedient: For we rather shaw the way to the Ignorant, then prescribe ordour to the learned, that can not be amended.</p>
+               <div type="prayer">
+                  <head>¶ ANE PRAYER.</head>
+                  <p>PReserue the publict face of thy Church with in this Realme ô Lord: Dilait the Kingdome of thy Sone Iesus Christ vniuersallie. And so
+<pb facs="tcp:173246:28"/>farther disclois and brek doune the tyranny of that Romane Antichrist by the power of thy Sone oure Lorde Iesus Christ. So Beit.</p>
+               </div>
+            </div>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>ANNO. 1567.</date>
+               </dateline>
+            </opener>
+            <epigraph>
+               <q>
+                  <bibl>Rom. 16.</bibl>
+                  <p>Soli sapienti Deo per Iesum Christum gloria inperpetuum: Amen.</p>
+               </q>
+            </epigraph>
+            <p>This book is thoght necessar and profitable for the Church &amp; cōmanded to be printed be the Generall Assemblie. Set furth be Iohne Knox Minister.</p>
+            <p>And sighted be vs whose names follow. As we war appointed be the said generall assēble.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Iohne Willock.</item>
+                     <item>M Iohne Crag.</item>
+                     <item>Robert Pont.</item>
+                     <item>Iohne Row.</item>
+                     <item>Dauid Lyndesay.</item>
+                     <item>Guilielmus Christisonis.</item>
+                     <item>Iames Greg. &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="form_of_elections">
+            <pb facs="tcp:173246:28"/>
+            <head>THE forme and ordour of the election of the Superintendent which may serue in electi<g ref="char:EOLhyphen"/>oun of all vther Ministers. At Edinburgh. the 9. of Marche. ANNO. 1560. Iohne Knox being Minister.</head>
+            <p>FIRST was maid â Sermon in y<seg rend="sup">e</seg> which thi heads, wer intreated. First the necessitie of Ministers, &amp; Superintendents. 2. The crymes &amp; vices y<seg rend="sup">t</seg> myght vnable theme of the ministerie. 3 The verteous required in theme. 4. And last whethir such as by publict cōfent of the Church wer called to such office myght refuis the same.</p>
+            <p>The Sermon finished. It wes declared be the same Minister maker thereof. That the Lords of Secrete Coūsall had geuen charge &amp; power to the Churchis of Lowthyane to cheis M. Iohne Spottiswod, Superintendent and that sufficient warning wes maid be publict edict to the Chur<g ref="char:EOLhyphen"/>chis of Edinburgh, Lynlithgu, Striueling, Tre<g ref="char:EOLhyphen"/>nent, Hadingtoun, and Dunbar, as also to Erles, Lords, Baronis, Gentilmen, and vthers haue<g ref="char:EOLhyphen"/>and or that might clame to haue vote in electiō to be present that day at that same houre.</p>
+            <p>And therefor inquisition wes maid who wer pre<g ref="char:EOLunhyphen"/>sent &amp; who wer absent, after wes called the said M. Iohn who answering, the Minister demāded geue any man knew any cryme or offēce to the
+<pb facs="tcp:173246:29"/>said M. Iohn, that myght vnable him to be cal<g ref="char:EOLhyphen"/>led to that office. And that he demanded thryse. Secundarlie question wes moued to the hole mul<g ref="char:EOLunhyphen"/>titude giue ther wes any vther whom they wald put in election with the said M. Iohne y<seg rend="sup">e</seg> peopel wer asked if they wald haue the said M. Iohne superintendent? If they wald honore and obey him as Christs Minister and confort &amp; assist him in euerie thing pertening to his charge?</p>
+            <p>They answered.</p>
+            <p>We wil &amp; we do promeise vnto him such obedi<g ref="char:EOLunhyphen"/>ence as becūeth y<seg rend="sup">e</seg> Scheip to geue vnto there Pa<g ref="char:EOLhyphen"/>stour so long as he remaneth faithful in his office</p>
+            <p>The answers of peopele and there consent re<g ref="char:EOLhyphen"/>ceaued. These questionis wer proponed to him that wes to be elected. Questioun.</p>
+            <p>Seing that ye here the thrust and desyir of this people, do ye not think youre self bound in cō<g ref="char:EOLhyphen"/>science before God to supporte theme that so earnestlie call for youre confort &amp; for the fruict of youre labours.</p>
+            <p>answer.</p>
+            <p>If any thing wer in me able to satifie there de<g ref="char:EOLhyphen"/>syir I acknowledge my self bound to obey God calling by theme. Questioun.</p>
+            <p>Do ye seke to be promoted to this office and charge for ony respect of worldlie cōmoditie
+<pb facs="tcp:173246:29"/>reches or glorie. Answer.</p>
+            <p>God knoweth the contrair,</p>
+            <p>Questioun.</p>
+            <p>Beleue ye not that the doctrine of the Pro<g ref="char:EOLhyphen"/>phetes &amp; Apostils contened in the books of the new and old Testaments is the onelie trew and moste absolute fundatiō of the vniuersal church of Christ Iesus. Insomuche that in the same Scriptures ar conteaned all thingis necessare to be beleued for the saluation of mankynd.</p>
+            <p>Answer.</p>
+            <p>I veralie beleue the same, and do abhor and vtterlie refuse all doctrine alledged necessare to saluation that is not expressedlie cōtened in the same. Questioun.</p>
+            <p>Is not christ Iesus, man of man according to the flesh To wit, the Sone of Dauid, the seid of Abra<g ref="char:EOLhyphen"/>ham cōceauid of the holy GHOST, borne of the Virgine his Mother, the onlie head and me<g ref="char:EOLhyphen"/>diator of his Church. Answer.</p>
+            <p>He is, and without him there is nether salua<g ref="char:EOLhyphen"/>tion to man nor lyfe to Angell.</p>
+            <p>Questioun.</p>
+            <p>Is not the same Lorde Iesus the onlie trew God the Eternal Sone of the Eternal father, in whom all that shall be saued wer elected before the fundatioun of the Worlde was layd.
+<pb facs="tcp:173246:30"/>I acknowledge and confes him in the vnitie of his Godhead to be God abuife all hings blessed for euir. Questioun.</p>
+            <p>Shall not they whome God in his Eternall cō<g ref="char:EOLunhyphen"/>sale hath elected, be called to the knowledge o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Sone oure Lord Iesus, &amp; shall not they who of purpose ar called in this lyfe be Iustified and where Iustificatioun and fre remissioun of sinnes is obtened in this lyfe be fre grace. Shall not the glorie of the Sonnes of God follow in the gene<g ref="char:EOLhyphen"/>rall Resurrectioun when the Sone of God shall appeare in his glorious Maiestie.</p>
+            <p>Answer</p>
+            <p>This I acknowledge to be the doctrine of the Apostle and the most singular cōforte of God dis children.</p>
+            <p>Questioun.</p>
+            <p>Will ye not then conteane your selfe in all doctrine within the bounds of this fundatioun? Will ye not study to promoue the same alswell be your lyfe as be your doctrine? Will ye not according to the graces and vtterance that God shall grant vnto yow profes, instruct, and man<g ref="char:EOLhyphen"/>teane the puritie of the doctrine conteaned in the Sacred word of God and to the vttermost of your power? Will ye not ganstand &amp; conuince the gainsayars and the teacharis of mennis in<g ref="char:EOLhyphen"/>uentions.</p>
+            <pb facs="tcp:173246:30"/>
+            <p> Answer.</p>
+            <p>That do I promise in the presence of God and of his congregatioun here assembled.</p>
+            <p>Questioun.</p>
+            <p>Know ye not that the excellēcie of this office to the which God hath called yow requireth that your cōuersation and behauour be such, as that ye may be Irreprehensible, yea euen in the Eyis of the vngodlie.</p>
+            <p>Answer.</p>
+            <p>I vnfeanedlie acknowledge and humblie desire y<seg rend="sup">e</seg> Church of God to pray with me that my lyfe be not slanderous, to the glorious Euangell, of Christ Iesus.</p>
+            <p>Questioun</p>
+            <p>Because ye ar â man cōpassed with infirmities, will ye not cheritablie &amp; with lowlynes of spirit receaue admonitioun of youre bretheren? And giue ye shall happin to flyide or offende in any poynt? Wil ye not be subiect to the discipline of the Church as the rest of your bretheren?</p>
+            <p>The answer of the Superintendent or</p>
+            <p>Minister to be elected.</p>
+            <p>I acknowledge my self â man subiected to infir<g ref="char:EOLhyphen"/>mitie and one that hath nead of correctioun and admonition and therefore I most willing he sub<g ref="char:EOLhyphen"/>iect
+<pb facs="tcp:173246:31"/>my self to the holsom discipline of y<seg rend="sup">e</seg> church yea to the discipline of the same Church by the which I am now called to this office and charge and heir, in God dis presence and yours do pro<g ref="char:EOLhyphen"/>mis obedience to all Admonitions secreatlie or publicte geuin, vnto the which If I be found inobedient I Cōfes my self most Worthie to be eiectted. Not onelie frome this Honore, bot also frome the societie of the faithfull in case of my stubburnes. For the vocatioun of God to hear charge within his Church maketh not men tyrants nor lordes, bot appoineth them seruan<g ref="char:EOLhyphen"/>dis, watchmen, and pastors to the flock.</p>
+            <p>Thus ended questioun must be asked agane of the multitude.</p>
+            <p>Questioun.</p>
+            <p>Require ye any farther of this your Superin<g ref="char:EOLhyphen"/>tendent?</p>
+            <p>Answer.</p>
+            <p>If no man answer let the Minister proced:</p>
+            <p>Will ye not acknowledge this your Brother for the minister of Christ Iesus? Will ye not re<g ref="char:EOLhyphen"/>uerence the worde of God that proceadeth fra his mowth? Will ye not receaue of him the Ser<g ref="char:EOLhyphen"/>mon of exhortation with patience? Not refusing the holesom medicine of your Saules? Although it be bittir and vnplesing to the flesh? Will ye not finallie manteane and confort him in his mi<g ref="char:EOLhyphen"/>nisterie aganst all suche as wickedlie wald rebell
+<pb facs="tcp:173246:31"/>against God and his holie ordinance.</p>
+            <p>The people answereth.</p>
+            <p>We will: as we will answer to the Lorde Iesus who hath commanded his Ministers to be had in reuerence, as his Embassadors and as mē that curfullie watche for the Saluatiō of our Sawles.</p>
+            <p>Let the Nobilitie be vrged with this.</p>
+            <p>YE haue hard the dewitie and profession of this oure Brother by youre consentis appointed to this charge as also the dewitie and obedience, which God requireth of vs towardes him here in his Ministerie: But because that neather of bothe ar able to perform any thing without the especiall grace of oure God in Christ Iesus who hathe promessed to be with vs present, euin to the consummatioun of the worlde with vnfea<g ref="char:EOLhyphen"/>tred hartis, let vs craue of him his benedictioun and assistance in this work begun to his glorie &amp; for the confort of his Church.</p>
+            <div type="prayer">
+               <head>¶ THE PRAYER</head>
+               <p>O LORDE to whom all power is geuin in Heauin and in Earth. Thow that art the Eternall Sone of the Eternall Father, who hast
+<pb facs="tcp:173246:32"/>not onlie so loued thy Church, that for the re<g ref="char:EOLhyphen"/>demptionu &amp; purgatioun of the same, thow ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> humbled thy self to the death of the Croce, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thereupone hast sched thy most innocent blod<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to prepare to thy self â spous without spot, bot also to reteane this thy most excellent benefit in recent memorie, hath appointed in thy Church Teachers, Pastors &amp; Apostels, to instruct, cōfo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; admonish the same: look vpone vs mercyfully ô Lord thow that onelie art King, Teacher, and hie Preast, to thy awin flock: and send vnto this oure Brother, whom in thy name we haue char<g ref="char:EOLhyphen"/>ged, with the cheif cair of thy Church within y<seg rend="sup">e</seg> boundis of L. such portion of thy holie spirit, as thereby he may rightlie deuyid thy word <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the instructioun of thy flock, and to the cōfuta<g ref="char:EOLhyphen"/>tioun of penitious errouris, &amp; damnable super<g ref="char:EOLhyphen"/>stiouns. Geue vnto him good Lorde, â mowth &amp; wisedom whereby the ennimes of thy trueth may be confounded, the Wolffes expelled, and dreuin from thy Fald, thy Scheip may be fed in the holsome Pastures of thy most holie word, the blynd &amp; ignorant may be illuminated with thy trew knowledge, finallie that the dregges of superstitioun, and Idolatrie which yet resteth within this Realme being purged and remoued we may all not onelie haue occasiont to glorifie
+<pb facs="tcp:173246:32"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> oure onlie LORDE and Saluiour, bot also <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ylie to grow in Godlines &amp; obedience of thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ost holy will, to the destruction of the bodie <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sinne &amp; to the restitution of that Image to the which we wer ones created &amp; to the which after oure fall &amp; defection wear renewed by parti<g ref="char:EOLhyphen"/>cipation of thy holie spirit, which by trew faith in the we do profes as the blessed of thy Father, of whome the perpetuall encrease of thy graces we craue, as by the oure Lorde, Kinge and onlie Bischop we ar taught to pray.
+<q>Our Father. &amp;c.</q>
+               </p>
+            </div>
+            <div type="part">
+               <p>The prayer ended the rest of the Ministers if any be, and Eldars of that Church present, in signe of there consent shall tak the eliected be the hand.</p>
+               <p>The cheif minister shall giue the benedictioun as followeth.</p>
+               <p>God the Father of our Lord Iesus Christ, who hath cōmanded his Euangell to be preached to the confort of his elect, and hath called the to the office of â Watcheman owir his people, multiplie his graces with the, illuminat the with his holie spirit, conforte and strenthen the in all vertew, gouerne &amp; guyde thy ministerie to the prayse of his holy name, to the propagation of
+<pb facs="tcp:173246:33"/>Christs Kingdome: to the cōfort of his Church &amp; finallie to the plaine discharge and assuran<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of thy owin conscience in the day of the Lorde Iesus, to whome with the Father and with th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Holie Ghost be all honour prayse &amp; glorie no<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and euir. So Beit.</p>
+            </div>
+            <div type="part">
+               <head>¶ The last exhortatioun, to the elected.</head>
+               <p>TAK head to thy self and vnto the flock cō<g ref="char:EOLhyphen"/>mitted to thy charge, fead the same cairfullie no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as it wer be cōpulsion bot of verray lufe which thow bearest to the Lorde Iesus, Walke in sim<g ref="char:EOLhyphen"/>plicitie and purenes of lyfe as it becumeth the trew seruand and the Ambassadour of the Lorde Iesus, vsurpe not dominion nor tyrannical autho<g ref="char:EOLunhyphen"/>ritie owir thy bretheren, be not discoraged in aduertsitie, bot lay before thy self the example of the Prophets, Apostles, &amp; of the Lorde Iesus, who in there Ministerie sustened contradiction, contempt, persecution, and death, feare not to rebuke the worlde of sin, Iustice, and Iudgment. If any thing succeid prosperuslie in thy vocatiō be not puft vp with pryde, nether yet flatter thy self as that the good succes proceaded from thy vertew industrie or cair. Bot let euir that sentēce of the Apostle remain in thy hart: What hast y<seg rend="sup">u</seg>
+                  <pb facs="tcp:173246:33"/>which thow hast not receaued? If thow haue re<g ref="char:EOLhyphen"/>teaued why glories thow? Confort the affli<g ref="char:EOLhyphen"/>cted support the poore and exhort vtheris to support them. Be not solist for things of this lyfe, bot be feruent in prayer to God for the en<g ref="char:EOLhyphen"/>crase of his holie Spirit. And finallie behaue thy self in this holy vocation with such sobrietie, as God may be glorified in thy Ministerie. And so shall thow schortlie obrein the victorie, &amp; shall receaue the Croune promissed when the Lorde Iesus shall appeare in His Glorie, whose omni<g ref="char:EOLhyphen"/>potent Spirit assist the and vs to the end.</p>
+               <p>SING 23.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb facs="tcp:173246:34"/>
+            <pb facs="tcp:173246:34"/>
+            <head>The Electioun of Eldars, and Deaconis, in the Church of Edinburgh.</head>
+            <p>BEfore that there was any publict face of trew religioun within this Realme, it pleased God of his mercie to illuminat the harts of many priuate persones, so that they did perceaue and vnderstand the abuses that was in the Papistioall Church &amp; thereupone they did withdraw them selfis from participation of there idolatrie.</p>
+            <p>And because the Spirit of God will neuer su<g ref="char:EOLhyphen"/>fer his a win to be Idill and Void of al Religion, men began to exercise them selfis in reading of the Scriptures secretlie within there awin houses and thereunto war added secrete prayers, publi<g ref="char:EOLhyphen"/>ctlie made within the houses, after <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hort proce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of tyme God gadthered Houses to gidder, in one <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the same exercise, some tymes in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp; some tymes in houses by nyght &amp; then <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egan men inspyred (no doubt by the Spirit of God to consider that diuerse Houses &amp; varietie of persons could not be kept in good obeiean<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and honest fame without ouerfearis, Eldaris and Deacones. And so began that small flok to but theme selue, in such ordour as if Christ Ie<g ref="char:EOLhyphen"/>sus, had plainlie triumphed in the midds of them by the power of his Euangel and so they did
+<pb facs="tcp:173246:35"/>elect some to occupie the supreme place of ex<g ref="char:EOLhyphen"/>hortation, and reading, sum to be Eldaris, and helparis to them for the ouersight of the flok, &amp; some to be Deacones, for the collection of al<g ref="char:EOLhyphen"/>mus to be distributed to the poore of there aw<g ref="char:EOLhyphen"/>in body. Of this smal begining is that ordour y<seg rend="sup">t</seg> now God of his mercie hath geuin vnto vs pub<g ref="char:EOLunhyphen"/>lictlie within this Realm, &amp; principallie within this Toune of Edinburgh proceded. For when it pleased y<seg rend="sup">e</seg> merciful goodnes of our God, to geue the victorie to the Euangel of his deare Some oure Lorde Iesus, &amp; to suppres &amp; beat downey pryde of the enemies of al trew Religion within this Realmes. Of the principales of suche as we knowin to be men of good conuersation and honest same in the priuie Church, wer cho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eldaris, and Decones to rule with the Minister. In the publict Church: which burdene they pre<g ref="char:EOLunhyphen"/>cientlie sustened â Ʒeir and more, and then be<g ref="char:EOLhyphen"/>cause they could not (without Neglecting o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there awin priuate houses) longer wait vpon publict charge they desired that they might <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> releaued, and vthers might be burdened in the roume, which was thoght â petitiō reasonable, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the whole Church. And therefor it was grant<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vnto theme that they shuld nominat, &amp; geue <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in election suche personages as they in there o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:173246:35"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iences thoght most apte &amp; abil to serue in that charge: prouiding that they should nominate dowble mo persones then wer sufficient to serue in that charge, to the end that the whole con<g ref="char:EOLhyphen"/>gregatioun might haue there fre vote in there election, &amp; this ordour hath bene euer obserued since that tyme in the Church of Edinburgh: y<seg rend="sup">t</seg> in the olde sessioun before there departing no<g ref="char:EOLhyphen"/>minates 24. in election for Eldars, of whome 12. as to be chosin, and 32. for Deacones, of theme 26. to be elected which persones ar publictlie proclamed in the audience of the whole church vpone â Sonday before noon after Sermō, with admonition to the Church that if any mā know any notorious cryme or cause that might vnable any of those persones to enter in suche â voca<g ref="char:EOLhyphen"/>tioun that they should notifie the same, the nixt thurisday to the session, or if any knew any per<g ref="char:EOLhyphen"/>sones more able for y<seg rend="sup">t</seg> charge they shuld notifie the same vnto the said sessioun, to the end that no man without the Church shuld complein<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> y<seg rend="sup">t</seg> he was spoiled of his libertie in electioun.</p>
+            <p>The Sonday following in the end of the ser<g ref="char:EOLhyphen"/>mon before noone the hole Communicants at comanded to be present at after noone, to geue there votes as they will answer before God to such as they think most able to beare the charge
+<pb facs="tcp:173246:36"/>of the Church with the Ministers. The votes of all being receaued the scrolles ar deliuered to any of the Ministers, who keipeth the same se<g ref="char:EOLhyphen"/>create from the sight of all men, til the nixt thur<g ref="char:EOLhyphen"/>isday, then in the session he produces them that the Votes may be counted, Where the maniest votes without respect of persone, hathe the first place in the Eldarschip &amp; so proceading till the nomber of tuelf be cōpleit, so that if â poore man excead the riche mā in votes he preceadeth him in place and it is called the first, second, and thrid Eldar, euin as the votes answereth: and this same is obserued in the election of the Deacones.</p>
+            <p>The fryday after that Iudgement is tane what persones ar elected for Elders and Deacones to serue for that Ʒeir, the Minister after his Sermon readis the same names publictlie, &amp; geues com<g ref="char:EOLhyphen"/>mandement publictlie that suche persones be pre<g ref="char:EOLunhyphen"/>sent in the Church the nixt Sonday at sermont before noone in the place to be appoynted for theme to accept that charge, that God by the pluralitie of votes had laid vpone theme. Who being conuened, the minister after sermon readis the names publictlie, the absents ar noted &amp; the presentes ar admonised, to consider the dignitie of that vocation, whereunto God hath called there, the dewtie that they aw to the people
+<pb facs="tcp:173246:36"/>the danger that lyis vpone theme, if they be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und negligent in that there vocation: And fi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allie the dewtie of the people towardis the per <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons elected w<seg rend="sup">c</seg> being done this prayer is red.</p>
+            <div type="prayer">
+               <head>THE Prayer in the election of Eldaris &amp; Deaconis.</head>
+               <p>OEternall &amp; euerlasting God Father of oure Lorde Iesus Christ, who of thy infinit mer<g ref="char:EOLhyphen"/>cy and goodnes hast chosin to thy self â Church of the lost seade of Adam, which thow hast euer reulled by the Inspiration of thyne holy spirit. &amp; yet not the les hast alwayis vsed the ministerie of men as weill in preaching of thy worde &amp; ad<g ref="char:EOLhyphen"/>ministration of thy Sacraments, as in giding of thy flok &amp; prouiding for the poore within the same as in the Law, Prophets &amp; in thy glorious <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>angel we haue witnessis which ordour ô Lord y<seg rend="sup">t</seg> of thy mercy hast now restored to vs again after that the publict face of thy Church hathe bene deformed be the tyrannie of that Roman Antichrist. Grant vnto vs ô Heauinlie Father hartes thankful for the benefits y<seg rend="sup">t</seg> we haue recea<g ref="char:EOLhyphen"/>ned, and geue vnto these our Bretheren, elected to these charges within thy Church, suche abun<g ref="char:EOLunhyphen"/>dance of thy holie spirit that they may be found vigilant, and faithfull in that vocatioun where<g ref="char:EOLhyphen"/>vnto
+<pb facs="tcp:173246:37"/>thow of thy mercy hast called them.</p>
+               <p>And albeit ô Lord these smal beginnigis ar <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>temned of the proud worlde, yet Lord thow <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy awin mercyes saik blesse y<seg rend="sup">e</seg> same, in such so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> y<seg rend="sup">t</seg> thy Godlie name may be glorified superstitio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; idolatrie may be rooted out, and vertew may be planted, not onlie in this generation, but also to the postirities to come. Amen. grant <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this mercyfull Father for Iesus Christ thy Sone saik in whose name we call vnto the as he hath taughtvs saying.
+<q>Oure Father. &amp;c.</q>
+               </p>
+               <p>And so with the rehersall of the Beleif after the which shall be song this portion of the 103. psalme verse 19. The Heauens hie a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and so to the end of that psalme.</p>
+               <p>After the which shall this schort admonition be geuin to the elected.</p>
+               <p>Magnifie God who of his mercy hath called yow to rule within his Church: be faithfull in your Vocation, schaw your self Zealous to pro<g ref="char:EOLhyphen"/>mote Vertew feir not the faces of the wicked, but rebuke there wickednes. Be merciful to the poore, &amp; support them to the vtermost of your power, and so shall ye receaue the benediction
+<pb facs="tcp:173246:37"/>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God present and euerlasting.</p>
+               <p>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d saue the Kings Maiestie and geue vnto him <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Spirit of Sanctificatioun in his Ʒong age. <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>esse his regent &amp; such as assist him in vpryght <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>unsal, &amp; ather fructfullie cōuert, or suddanlie <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>found the enemies of trew Religioun, and <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>f this afflicted common Wealth.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
